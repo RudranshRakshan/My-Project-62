@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    background-color: blue;
+}
+#myCarousel {
+    background-color: blueviolet;
+    height: 800px;
+
+}
+
+#myCarousel img {
+    height: 700px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 55px;
+    margin-top: 15px;
+    color: chartreuse;
+    font: 27px;
+}
+
+#home img {
+    height: 500px;
+
+}
+
+
+#what{
+    font-weight: bolder;
+    font-family: cursive;
+    color: brown;
+      font-size:50;
+}
+
+#seeee {
+    font-family: cursive;
+    color: darkgreen;
+    font-size:20;
+    
+}
+
+.flowers{
+    font-weight: bolder;
+    font-family: monospace;
+    font-style: oblique;
+    color: yellow;
+       font-size:70;
+}
+#Gal{
+     background: linear-gradient(45deg, red 14%, orange 28%, yellow 42%, green 56%, blue 70%, indigo 84%, violet 108%);
+}
+#home{
+    background-image: url(Back%20see.jpg)
+}
+
